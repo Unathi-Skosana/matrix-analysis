@@ -1,0 +1,207 @@
+\usepackage[%
+  backend      = biber,
+  doi          = true,
+  url          = true,
+  giveninits   = true,
+  hyperref     = true,
+  maxbibnames  = 99,
+  maxcitenames = 99,
+  sortcites    = true,
+  sorting      = none,
+  style        = numeric,
+]{biblatex}
+
+\usepackage[english]{babel} % English language/hyphenation
+\usepackage[T1]{fontenc} %
+\usepackage[utf8]{inputenc} %
+\usepackage{microtype} % Font protrusion and expansion
+
+\usepackage{amsmath,amsfonts,amsthm,amssymb} % Math packages
+\usepackage{physics} %
+\usepackage{unicode-math} %
+
+\usepackage{graphicx} % allow embedded images
+  \setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+  \graphicspath{{graphics/}} % set of paths to search for images
+
+\usepackage{booktabs} % book-quality tables
+\usepackage{multicol} % multiple column layout facilities
+\usepackage{fancyvrb} % extended verbatim environments
+\fvset{fontsize=\normalsize}% default font size for fancy-verbatim environments
+\usepackage{fancyhdr} % Custom headers and footers
+\pagestyle{fancyplain} % Makes all pages in the document conform to the custom headers and footers
+\fancyhead{} % No page header - if you want one, create it in the same way as the footers below
+\fancyfoot[L]{} % Empty left footer
+\fancyfoot[C]{} % Empty center footer
+\fancyfoot[R]{\thepage} % Page numbering for right footer
+\renewcommand{\headrulewidth}{0pt} % Remove header underlines
+\renewcommand{\footrulewidth}{0pt} % Remove footer underlines
+\setlength{\headheight}{13.6pt} % Customize the height of the header
+\allowdisplaybreaks
+
+\usepackage{float}
+\usepackage{caption}
+\usepackage{verbatim}
+\usepackage{sectsty} % Allows customizing section commands
+\allsectionsfont{\normalfont \bfseries} % Make all sections centered, the default font and small caps
+\usepackage{enumerate}
+
+\usepackage{color} % colors
+\usepackage[dvipsnames]{xcolor}
+\usepackage[colorlinks=true, linkcolor=WildStrawberry, urlcolor=WildStrawberry, citecolor=Emerald, linktocpage=true, breaklinks=true]{hyperref}
+
+\usepackage{varioref}
+\usepackage{xspace}
+
+%%
+% Equation 
+\newcommand{\labelEquation}[1]
+{%
+  % #1 = label
+  \label{eq:#1}%
+}
+
+\newcommand{\refEquation}[1]
+{%
+  % #1 = reference
+  Equation~(\vref{eq:#1})\xspace%
+}
+\newcommand{\refEquationOnly}[1]
+{%
+  % #1 = reference
+  Equation~(\ref{eq:#1})\xspace%
+}
+
+%%
+% Figures
+\newcommand{\labelFigure}[1]
+{%
+  % #1 = label
+  \label{fig:#1}%
+}
+
+\newcommand{\refFigure}[1]
+{%
+  % #1 = reference
+  \figurename~\vref{fig:#1}\xspace%
+}
+
+\newcommand{\refFigureOnly}[1]
+{%
+  % #1 = reference
+  \figurename~\ref{fig:#1}\xspace%
+}
+
+\newcommand{\refSubfigureOnly}[1]
+{%
+  % #1 = reference
+  \subref{fig:#1}\xspace%
+}
+
+%%
+% Tables
+\newcommand{\labelTable}[1]
+{%
+  % #1 = label
+  \label{tab:#1}%
+}
+
+\newcommand{\refTable}[1]
+{%
+  % #1 = reference
+  \tablename~\vref{tab:#1}\xspace%
+}
+
+\newcommand{\refTableOnly}[1]
+{%
+  % #1 = reference
+  \tablename~\ref{tab:#1}\xspace%
+}
+
+\newcommand{\refSubtableOnly}[1]
+{%
+  % #1 = reference
+  \subcaptionref{tab:#1}\xspace%
+}
+
+%%
+% Parts
+\newcommand{\labelPart}[1]
+{%
+  % #1 = label
+  \label{chap:#1}%
+}
+
+\newcommand{\refPart}[1]
+{%
+  % #1 = reference
+  Part~\vref{chap:#1}\xspace%
+}
+
+\newcommand{\refPartOnly}[1]
+{% Doesn't include the page referencing
+  % #1 = reference
+  Part~\ref{chap:#1}\xspace%
+}
+
+%%
+% Chapters
+\newcommand{\labelChapter}[1]
+{%
+  % #1 = label
+  \label{chap:#1}%
+}
+
+\newcommand{\refChapter}[1]
+{%
+  % #1 = reference
+  Chapter~\vref{chap:#1}\xspace%
+}
+
+\newcommand{\refChapterOnly}[1]
+{% Doesn't include the page referencing
+  % #1 = reference
+  Chapter~\ref{chap:#1}\xspace%
+}
+
+%%
+% Sections
+\newcommand{\labelSection}[1]
+{%
+  % #1 = label
+  \label{sec:#1}%
+}
+
+\newcommand{\refSection}[1]
+{%
+  % #1 = reference
+  §~\vref{sec:#1}\xspace%
+}
+
+\newcommand{\refSectionOnly}[1]
+{% Doesn't include the page referencing
+  % #1 = reference
+  §~\ref{sec:#1}\xspace%
+}
+
+%%
+% Appendices
+\newcommand{\labelAppendix}[1]
+{%
+  % #1 = label
+  \label{appen:#1}%
+}
+
+\newcommand{\refAppendix}[1]
+{%
+  % #1 = reference
+  Appendix~\vref{appen:#1}\xspace%
+}
+
+\newcommand{\refAppendixOnly}[1]
+{% Doesn't include the page referencing
+  % #1 = reference
+  Appendix~\ref{appen:#1}\xspace%
+}
+
+

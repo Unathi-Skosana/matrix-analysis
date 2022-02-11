@@ -1,0 +1,77 @@
+\documentclass[nohyper,nobib]{tufte-handout}
+
+\input{preamble}
+
+\includeonly{
+    chapters/preliminaries
+}
+
+
+%{{{ Preamble
+%--------Theorem Environments--------
+%theoremstyle{plain} --- default
+\newtheorem{thm}{Theorem}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{facts}[thm]{Facts}
+\newtheorem{fact}[thm]{Fact}
+\newtheorem{clm}[thm]{Claim}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{conj}[thm]{Conjecture}
+\newtheorem{quest}[thm]{Question}
+
+\theoremstyle{definition}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{defns}[thm]{Definitions}
+\newtheorem{con}[thm]{Construction}
+\newtheorem{exmp}[thm]{Example}
+\newtheorem{exmps}[thm]{Examples}
+\newtheorem{notn}[thm]{Notation}
+\newtheorem{notns}[thm]{Notations}
+\newtheorem{addm}[thm]{Addendum}
+\newtheorem{exer}[thm]{Exercise}
+
+\theoremstyle{remark}
+\newtheorem{rem}[thm]{Remark}
+\newtheorem{rems}[thm]{Remarks}
+\newtheorem{warn}[thm]{Warning}
+\newtheorem{sch}[thm]{Scholium}
+
+%\defaultfontfeatures{Scale=MatchLowercase, Ligatures=TeX}
+\setmainfont{EB Garamond}
+\setsansfont{URW Classico}
+\setmathfont{Garamond-Math}
+\setmonofont{Inconsolata}
+
+\geometry{
+	left=13mm, % left margin
+	textwidth=130mm, % main text block
+	marginparsep=8mm, % gutter between main text block and margin notes
+	marginparwidth=55mm % width of margin notes
+}
+
+\fontsize{20}{10}\selectfont
+
+%}}}
+
+% {{{ metadata
+\title{Notes on Matrix Analysis} % The assignment title
+\author{Unathi Skosana}
+\date{\vspace{-5pt}\normalsize \today} % Today's date or a custom date
+% }}}
+
+\begin{document}
+    \justifying 
+    \maketitle
+
+    \begin{abstract}
+        \noindent
+        Personal notes taken while learning topics from matrix analysis
+    \end{abstract}
+
+    \tableofcontents
+    \newpage
+
+    \include{chapters/preliminaries}
+
+\end{document}

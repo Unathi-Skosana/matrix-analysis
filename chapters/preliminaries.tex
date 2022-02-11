@@ -1,0 +1,93 @@
+\section{Introduction}
+\labelSection{Introduction: Some definitions}
+
+\begin{defns}[Informal definition]
+    An operation is any rule which assigns to each ordered pair of elements of $A$ a unique element in $A$.
+\end{defns}
+
+\begin{defns}[Formal definition]
+	For a set $A$, an operation $*$ on $A$ is a rule which assigns to each ordered pairs $(a,b)$ of elements of $A$ exactly one $a * b$ in $A$, such that:
+    \begin{itemize}
+        \item $a * b$ is defined for \emph{every} ordered pair $(a,b)$ of elements of $A$. \footnote{In $\mathbb{R}$, division does not qualify as operation since it does not satisfy this condition. i.e. the ordered pair $(a, 0)$ has undefined quotient $a / 0$.}
+        \item $a * b$ must be \emph{uniquely} defined. \footnote{If $\diamond$ is defined on $(a, b)$ to be the number whose square is $ab$. In $\mathbb{R}$, $\diamond$ does not qualify as an operation since $2 \diamond 2$  could be either $2$, or $+2$.}
+        \item If $a, b \in A$, then $a * b \in A$. \footnote{$A$ is closed under the operation $*$}
+    \end{itemize}
+\end{defns}
+
+    
+\begin{defns}[Commutativity]
+    An operation $*$ is said to be \emph{commutative} if it satisfies
+    \begin{align}
+        a * b  = b * a
+    \end{align}
+    for any two elements $a$ and $b$ in $A$.
+\end{defns}
+
+\begin{defns}[Associativity]
+    An operation $*$ is said to be \emph{associative} if it satisfies 
+        \begin{align}
+            (a * b) * c = a * (b * c)
+        \end{align}
+        for any three elements $a$, $b$ and $c$ in $A$.
+\end{defns}
+
+\begin{defns}[Identity element]
+    The \emph{identity} element $e$ with respect to the operation $*$ has the property that:
+        \begin{align}
+            e * a  = a \quad\text{ and }\quad a * e = a
+        \end{align}
+        is true for every element $a$ in $A$.
+\end{defns}
+
+\begin{defns}[Inverses]
+    The inverse of any element $a$, item denoted by $a^{-1}$ has the property that:
+        \begin{align}
+            a * a^{-1} = e  \quad\text{ and }\quad a^{-1} * a = e
+        \end{align}
+\end{defns}
+
+\begin{defns}[Scalar field]
+    A \emph{scalar field} is a set of scalars $A$, together with two operations, which we call addition ($+$) and multiplication ($*$). Both operations must be commutative, associative, have an identity in the set $A$, all elements in the set have inverses for both operations except the additive identity under multiplication, and multiplication must be distributive over addition.
+\end{defns}
+
+
+\begin{defns}[Vector space]
+    A \emph{vector space} $V$ over a field $\mathbb{F}$ is a set $V$ of objects (called vectors) that is closed under a binary operation that is associative and commutative and has an identity (the zero vector, denoted by $\mathbf{0}$) and additive inverses in the set. The said set $V$ is also closed under scalar multiplication of the vectors by elements of the underlying scalar field $\mathbb{F}$, satisfying the following properties for all $a, b \in \mathbb{F}$ and all $\v,u \in V$: $ a (v + u)  = av + au$ , $(a + b)v = av + bv$, $a(bv) = (ab)v$ and $e v = v$ for the multiplication identity in $\mathbb{F}$.
+\end{defns}
+
+\begin{defns}[Subspace]
+ A \emph{subspace} of a vector space $V$ over a field $\mathbb{F}$ is a subset of $V$ that is, by itself, a vector space over $\mathbb{F}$ using the same operations of vector addition and scalar multiplication as in $V$.
+
+ \begin{itemize}
+     \item The subsets $\{\mathbf{0}\}$ and $V$ are called \emph{trivial subspaces} of $V$. A \emph{non-trivial subspace} is one that is not $\{0\}$ or $V$.
+     \item A \emph{proper subspace} is a non-trivial subspace not equal to $V$, and $\{\mathbf{0}\}$ is the \emph{zero vector space}
+ \end{itemize}
+\end{defns}
+
+\newpage
+
+\begin{defns}[Inner product]
+    An \emph{inner product} over a vector space $V$ is a map that takes a pair of vectors in $V$ to a scalar in the underlying field $\mathbb{F}$, denoted by $\langle \cdot, \cdot \rangle: V \times V \mapsto \mathbb{C}$ with satisfying the following properties for all vectors $u,v,w \in V$ and all scalars $a,b \in F$:
+    \begin{itemize}
+        \item $\langle v , u\rangle = \overline{\langle v, u\rangle}$
+        \item $\langle u + b v, w\rangle = \overline{a} \langle u, w\rangle +
+            \overline{b} \langle v, w \rangle$\footnote{Such a defined bilinear form, that is linear in the second argument and conjugate linear in the second argument is said to be a sesquilinear form}
+
+        \item $\langle w, a u + b v\rangle = a \langle w, u\rangle + b \langle w, v \rangle$
+        \item $\langle u, u\rangle = 0 \implies u = \mathbf{0}$
+    \end{itemize}
+\end{defns}
+
+\begin{defns}[Norm]
+    The standard inner product on a finite-dimensional vector space $V$ defined as $\langle v, u \rangle = v^*u$, corresponding to multiplication of a row vector with column vector. The said inner product induces a \emph{norm} on $V$ denoted by $\norm{\cdot} : V \mapsto \mathbb{F}$ and defined as $\norm{u} = \sqrt{\langle u, u \rangle} = \sqrt{u^*u}$  with following properties for all $v \in V$ and $a \in F$: $\norm{v} > 0 \>\forall v \neq \mathbf{0}$ and $\norm{a v} = \norm{a} \norm{v}$.
+\end{defns}
+
+\begin{defns}[Hilbert space]
+    A \emph{Hilbert space} is a vector space endowed with a inner product; the pair $(V, \langle \cdot, \cdot \rangle)$ where $V$ is real or complex vector space and $\langle \cdot, \cdot \rangle$ is an inner product on that space.
+\end{defns}
+
+\begin{defns}[Span]
+    If $S$ is a subset of a vector space $V$ over a field $\mathbb{F}$, the \emph{span} of $S$, denoted by $\mathrm{span}(S)$, is the intersection of all
+subspaces of $V$ that contain $S$.
+\end{defns}
+

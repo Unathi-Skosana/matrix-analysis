@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'build/exercises.blg'
+[112] biber:340> INFO - === Fri Feb 11, 2022, 21:27:20
+[130] Biber.pm:415> INFO - Reading 'build/exercises.bcf'
+[214] Utils.pm:395> WARN - No data sources defined!

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   version="1.1"
+   viewBox="0 0 210 297"
+   id="svg118"
+   sodipodi:docname="cover.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns1="http://www.iki.fi/pav/software/textext/">
+  <defs
+     id="defs122" />
+  <sodipodi:namedview
+     id="namedview120"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0708779"
+     inkscape:cx="336.63968"
+     inkscape:cy="300.68787"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="1080"
+     inkscape:window-y="420"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="below">
+    <rect
+       style="opacity:0.93;fill:#ffcaab;fill-opacity:0.68401074;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect25993"
+       width="80.685074"
+       height="75.430222"
+       x="43.135288"
+       y="43.809227"
+       inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+  <g
+     transform="translate(-1.6581 -2.0331)"
+     stroke="#000"
+     id="g20"
+     style="fill:#80fff4;fill-opacity:1"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <path
+       d="m87.231 52.468a32.979 32.985 0 1 0 32.98 32.985 32.979 32.985 0 0 0-32.98-32.985z"
+       fill="none"
+       stroke-width=".4"
+       style="paint-order:stroke fill markers;fill:#ff6100;fill-opacity:0.5512265"
+       id="path2"
+       inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       transform="translate(99.029 74.312)"
+       stroke-width=".41222"
+       id="g18"
+       style="fill:#80fff4;fill-opacity:1"
+       inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <circle
+         transform="translate(-47.534 -48.404)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle4" />
+      <circle
+         transform="translate(-66.915 -42.1)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle6" />
+      <circle
+         transform="translate(-78.9 -25.612)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle8" />
+      <circle
+         transform="translate(-78.901 -5.2281)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle10" />
+      <circle
+         transform="translate(-16.168 -5.2217)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle12" />
+      <circle
+         transform="translate(-16.175 -25.604)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle14" />
+      <circle
+         transform="translate(-28.149 -42.098)"
+         cx="35.739"
+         cy="26.703"
+         r=".79375"
+         style="paint-order:stroke fill markers;fill:#000000;fill-opacity:1"
+         id="circle16" />
+    </g>
+  </g>
+  <g
+     transform="matrix(.35278 0 0 .35278 84.814 45.263)"
+     ns1:alignment="middle center"
+     ns1:jacobian_sqrt="0.352778"
+     ns1:pdfconverter="inkscape"
+     ns1:preamble="/usr/share/inkscape/extensions/textext/default_packages.tex"
+     ns1:scale="1.0"
+     ns1:texconverter="pdflatex"
+     ns1:text="$0$"
+     ns1:version="1.3.0"
+     id="g31"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <defs
+       id="defs22" />
+    <g
+       transform="translate(-149.1 -128.12)"
+       id="g29">
+      <g
+         id="g27">
+        <g
+           transform="translate(148.71 134.76)"
+           id="g25">
+          <path
+             id="id-b6a8860c-1ed5-485d-9cf4-8718b256727b"
+             d="m4.5781-3.1875c0-0.79688-0.046875-1.5938-0.39062-2.3281-0.45312-0.96875-1.2812-1.125-1.6875-1.125-0.60938 0-1.3281 0.26562-1.75 1.1875-0.3125 0.6875-0.35938 1.4688-0.35938 2.2656 0 0.75 0.03125 1.6406 0.45312 2.4062 0.42188 0.79688 1.1562 1 1.6406 1 0.53125 0 1.2969-0.20312 1.7344-1.1562 0.3125-0.6875 0.35938-1.4688 0.35938-2.25zm-2.0938 3.1875c-0.39062 0-0.98438-0.25-1.1562-1.2031-0.10938-0.59375-0.10938-1.5156-0.10938-2.1094 0-0.64062 0-1.2969 0.078125-1.8281 0.1875-1.1875 0.9375-1.2812 1.1875-1.2812 0.32812 0 0.98438 0.1875 1.1719 1.1719 0.10938 0.5625 0.10938 1.3125 0.10938 1.9375 0 0.75 0 1.4219-0.10938 2.0625-0.15625 0.95312-0.71875 1.25-1.1719 1.25z" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(.35278 0 0 .35278 106.55 52.598)"
+     ns1:alignment="middle center"
+     ns1:jacobian_sqrt="0.352778"
+     ns1:pdfconverter="inkscape"
+     ns1:preamble="/usr/share/inkscape/extensions/textext/default_packages.tex"
+     ns1:scale="1.0"
+     ns1:texconverter="pdflatex"
+     ns1:text="$1$"
+     ns1:version="1.3.0"
+     id="g41"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <defs
+       id="defs33" />
+    <g
+       id="id-6e6dca91-770e-47fa-b57a-b228dc2c9a3f"
+       transform="translate(-149.6 -128.12)">
+      <g
+         id="id-dd791eae-87a3-46ee-a010-b33376a934fa">
+        <g
+           transform="translate(148.71 134.76)"
+           id="g37">
+          <path
+             d="m2.9375-6.375c0-0.25 0-0.26562-0.23438-0.26562-0.625 0.64062-1.5 0.64062-1.8125 0.64062v0.3125c0.20312 0 0.78125 0 1.2969-0.26562v5.1719c0 0.35938-0.03125 0.46875-0.92188 0.46875h-0.3125v0.3125c0.34375-0.03125 1.2031-0.03125 1.6094-0.03125 0.39062 0 1.2656 0 1.6094 0.03125v-0.3125h-0.3125c-0.90625 0-0.92188-0.10938-0.92188-0.46875z"
+             id="path35" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(.35278 0 0 .35278 119.64 70.601)"
+     ns1:alignment="middle center"
+     ns1:jacobian_sqrt="0.352778"
+     ns1:pdfconverter="inkscape"
+     ns1:preamble="/usr/share/inkscape/extensions/textext/default_packages.tex"
+     ns1:scale="1.0"
+     ns1:texconverter="pdflatex"
+     ns1:text="$2$"
+     ns1:version="1.3.0"
+     id="g52"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <defs
+       id="defs43" />
+    <g
+       transform="translate(-149.21 -128.12)"
+       id="g50">
+      <g
+         id="g48">
+        <g
+           transform="translate(148.71 134.76)"
+           id="g46">
+          <path
+             id="id-4d227abc-9e67-4b09-88b0-3cc7796a1f3c"
+             d="m1.2656-0.76562 1.0625-1.0312c1.5469-1.375 2.1406-1.9062 2.1406-2.9062 0-1.1406-0.89062-1.9375-2.1094-1.9375-1.125 0-1.8594 0.92188-1.8594 1.8125 0 0.54688 0.5 0.54688 0.53125 0.54688 0.17188 0 0.51562-0.10938 0.51562-0.53125 0-0.25-0.1875-0.51562-0.53125-0.51562-0.078125 0-0.09375 0-0.125 0.015625 0.21875-0.65625 0.76562-1.0156 1.3438-1.0156 0.90625 0 1.3281 0.8125 1.3281 1.625 0 0.79688-0.48438 1.5781-1.0469 2.2031l-1.9062 2.125c-0.10938 0.10938-0.10938 0.14062-0.10938 0.375h3.7031l0.26562-1.7344h-0.23438c-0.0625 0.29688-0.125 0.73438-0.23438 0.89062-0.0625 0.078125-0.71875 0.078125-0.9375 0.078125z" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(.35278 0 0 .35278 58.566 51.882)"
+     ns1:alignment="middle center"
+     ns1:jacobian_sqrt="0.352778"
+     ns1:pdfconverter="inkscape"
+     ns1:preamble="/usr/share/inkscape/extensions/textext/default_packages.tex"
+     ns1:scale="1.0"
+     ns1:texconverter="pdflatex"
+     ns1:text="$n-1$"
+     ns1:version="1.3.0"
+     id="g67"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <defs
+       id="id-1b7b6032-6868-43d9-90e2-a2b615f5558a" />
+    <g
+       id="id-f2940c97-b044-4204-b821-44f432a4766d"
+       transform="translate(-149.01 -128.12)">
+      <g
+         transform="translate(148.71 134.76)"
+         id="g57">
+        <path
+           d="m0.875-0.59375c-0.03125 0.15625-0.09375 0.39062-0.09375 0.4375 0 0.17188 0.14062 0.26562 0.29688 0.26562 0.125 0 0.29688-0.078125 0.375-0.28125 0-0.015625 0.125-0.48438 0.1875-0.73438l0.21875-0.89062c0.046875-0.23438 0.10938-0.45312 0.17188-0.67188 0.03125-0.17188 0.10938-0.46875 0.125-0.5 0.14062-0.3125 0.67188-1.2188 1.625-1.2188 0.45312 0 0.53125 0.375 0.53125 0.70312 0 0.60938-0.48438 1.8906-0.64062 2.3125-0.09375 0.23438-0.10938 0.35938-0.10938 0.46875 0 0.46875 0.35938 0.8125 0.82812 0.8125 0.9375 0 1.2969-1.4531 1.2969-1.5312 0-0.10938-0.078125-0.10938-0.10938-0.10938-0.10938 0-0.10938 0.03125-0.15625 0.1875-0.20312 0.67188-0.53125 1.2344-1.0156 1.2344-0.17188 0-0.23438-0.09375-0.23438-0.32812 0-0.25 0.078125-0.48438 0.17188-0.70312 0.1875-0.53125 0.60938-1.625 0.60938-2.2031 0-0.65625-0.42188-1.0625-1.1406-1.0625-0.90625 0-1.3906 0.64062-1.5625 0.875-0.046875-0.5625-0.45312-0.875-0.92188-0.875-0.45312 0-0.64062 0.39062-0.73438 0.5625-0.17188 0.34375-0.29688 0.9375-0.29688 0.96875 0 0.10938 0.09375 0.10938 0.10938 0.10938 0.10938 0 0.10938-0.015625 0.17188-0.23438 0.17188-0.70312 0.375-1.1875 0.73438-1.1875 0.1875 0 0.29688 0.125 0.29688 0.45312 0 0.21875-0.03125 0.32812-0.15625 0.84375z"
+           id="path55" />
+      </g>
+      <g
+         transform="translate(156.91 134.76)"
+         id="g60">
+        <path
+           id="id-b1c5a3da-2a55-4161-b3f5-275d23e7729d"
+           d="m6.5625-2.2969c0.17188 0 0.35938 0 0.35938-0.20312 0-0.1875-0.1875-0.1875-0.35938-0.1875h-5.3906c-0.17188 0-0.34375 0-0.34375 0.1875 0 0.20312 0.17188 0.20312 0.34375 0.20312z" />
+      </g>
+      <g
+         id="id-1e0a921a-77c9-4dac-b43e-d2e8fdd5e16c">
+        <g
+           transform="translate(166.87 134.76)"
+           id="g63">
+          <path
+             id="id-55392d84-77f4-4ed8-9767-edaf174f8fca"
+             d="m2.9375-6.375c0-0.25 0-0.26562-0.23438-0.26562-0.625 0.64062-1.5 0.64062-1.8125 0.64062v0.3125c0.20312 0 0.78125 0 1.2969-0.26562v5.1719c0 0.35938-0.03125 0.46875-0.92188 0.46875h-0.3125v0.3125c0.34375-0.03125 1.2031-0.03125 1.6094-0.03125 0.39062 0 1.2656 0 1.6094 0.03125v-0.3125h-0.3125c-0.90625 0-0.92188-0.10938-0.92188-0.46875z" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(.35278 0 0 .35278 44.921 68.789)"
+     ns1:alignment="middle center"
+     ns1:jacobian_sqrt="0.352778"
+     ns1:pdfconverter="inkscape"
+     ns1:preamble="/usr/share/inkscape/extensions/textext/default_packages.tex"
+     ns1:scale="1.0"
+     ns1:texconverter="pdflatex"
+     ns1:text="$n-2$"
+     ns1:version="1.3.0"
+     id="g86"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <defs
+       id="defs69" />
+    <g
+       transform="translate(-149.01 -128.12)"
+       id="g84">
+      <g
+         id="g82">
+        <g
+           transform="translate(148.71 134.76)"
+           id="g73">
+          <path
+             d="m0.875-0.59375c-0.03125 0.15625-0.09375 0.39062-0.09375 0.4375 0 0.17188 0.14062 0.26562 0.29688 0.26562 0.125 0 0.29688-0.078125 0.375-0.28125 0-0.015625 0.125-0.48438 0.1875-0.73438l0.21875-0.89062c0.046875-0.23438 0.10938-0.45312 0.17188-0.67188 0.03125-0.17188 0.10938-0.46875 0.125-0.5 0.14062-0.3125 0.67188-1.2188 1.625-1.2188 0.45312 0 0.53125 0.375 0.53125 0.70312 0 0.60938-0.48438 1.8906-0.64062 2.3125-0.09375 0.23438-0.10938 0.35938-0.10938 0.46875 0 0.46875 0.35938 0.8125 0.82812 0.8125 0.9375 0 1.2969-1.4531 1.2969-1.5312 0-0.10938-0.078125-0.10938-0.10938-0.10938-0.10938 0-0.10938 0.03125-0.15625 0.1875-0.20312 0.67188-0.53125 1.2344-1.0156 1.2344-0.17188 0-0.23438-0.09375-0.23438-0.32812 0-0.25 0.078125-0.48438 0.17188-0.70312 0.1875-0.53125 0.60938-1.625 0.60938-2.2031 0-0.65625-0.42188-1.0625-1.1406-1.0625-0.90625 0-1.3906 0.64062-1.5625 0.875-0.046875-0.5625-0.45312-0.875-0.92188-0.875-0.45312 0-0.64062 0.39062-0.73438 0.5625-0.17188 0.34375-0.29688 0.9375-0.29688 0.96875 0 0.10938 0.09375 0.10938 0.10938 0.10938 0.10938 0 0.10938-0.015625 0.17188-0.23438 0.17188-0.70312 0.375-1.1875 0.73438-1.1875 0.1875 0 0.29688 0.125 0.29688 0.45312 0 0.21875-0.03125 0.32812-0.15625 0.84375z"
+             id="path71" />
+        </g>
+        <g
+           transform="translate(156.91 134.76)"
+           id="g76">
+          <path
+             id="id-b1b1ab89-be55-46d1-8653-97da43d6f07f"
+             d="m6.5625-2.2969c0.17188 0 0.35938 0 0.35938-0.20312 0-0.1875-0.1875-0.1875-0.35938-0.1875h-5.3906c-0.17188 0-0.34375 0-0.34375 0.1875 0 0.20312 0.17188 0.20312 0.34375 0.20312z" />
+        </g>
+        <g
+           transform="translate(166.87 134.76)"
+           id="g80">
+          <path
+             d="m1.2656-0.76562 1.0625-1.0312c1.5469-1.375 2.1406-1.9062 2.1406-2.9062 0-1.1406-0.89062-1.9375-2.1094-1.9375-1.125 0-1.8594 0.92188-1.8594 1.8125 0 0.54688 0.5 0.54688 0.53125 0.54688 0.17188 0 0.51562-0.10938 0.51562-0.53125 0-0.25-0.1875-0.51562-0.53125-0.51562-0.078125 0-0.09375 0-0.125 0.015625 0.21875-0.65625 0.76562-1.0156 1.3438-1.0156 0.90625 0 1.3281 0.8125 1.3281 1.625 0 0.79688-0.48438 1.5781-1.0469 2.2031l-1.9062 2.125c-0.10938 0.10938-0.10938 0.14062-0.10938 0.375h3.7031l0.26562-1.7344h-0.23438c-0.0625 0.29688-0.125 0.73438-0.23438 0.89062-0.0625 0.078125-0.71875 0.078125-0.9375 0.078125z"
+             id="path78" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     d="m85.554 82.866c6.4727-8.6909 12.945-17.382 19.418-26.073"
+     fill="none"
+     stroke="#000"
+     stroke-width=".4"
+     id="path88"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+  <path
+     d="m116.96 73.521c-10.47 3.1151-20.939 6.2303-31.409 9.3455"
+     fill="none"
+     stroke="#000"
+     stroke-width=".4"
+     id="path90"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+  <g
+     transform="matrix(.24694 0 0 .24694 90.258 77.121)"
+     ns1:alignment="middle center"
+     ns1:jacobian_sqrt="0.246945"
+     ns1:pdfconverter="inkscape"
+     ns1:preamble="/usr/share/inkscape/extensions/textext/default_packages.tex"
+     ns1:scale="0.7"
+     ns1:texconverter="pdflatex"
+     ns1:text="$2\\pi/n$"
+     ns1:version="1.3.0"
+     id="g114"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <defs
+       id="defs92" />
+    <g
+       transform="translate(-149.21 -127.28)"
+       id="g112">
+      <g
+         transform="translate(148.71 134.76)"
+         id="g96">
+        <path
+           d="m1.2656-0.76562 1.0625-1.0312c1.5469-1.375 2.1406-1.9062 2.1406-2.9062 0-1.1406-0.89062-1.9375-2.1094-1.9375-1.125 0-1.8594 0.92188-1.8594 1.8125 0 0.54688 0.5 0.54688 0.53125 0.54688 0.17188 0 0.51562-0.10938 0.51562-0.53125 0-0.25-0.1875-0.51562-0.53125-0.51562-0.078125 0-0.09375 0-0.125 0.015625 0.21875-0.65625 0.76562-1.0156 1.3438-1.0156 0.90625 0 1.3281 0.8125 1.3281 1.625 0 0.79688-0.48438 1.5781-1.0469 2.2031l-1.9062 2.125c-0.10938 0.10938-0.10938 0.14062-0.10938 0.375h3.7031l0.26562-1.7344h-0.23438c-0.0625 0.29688-0.125 0.73438-0.23438 0.89062-0.0625 0.078125-0.71875 0.078125-0.9375 0.078125z"
+           id="path94" />
+      </g>
+      <g
+         id="id-5638abd5-7df8-4264-b358-1538849c1cba">
+        <g
+           transform="translate(153.69 134.76)"
+           id="g100">
+          <path
+             d="m2.6406-3.7188h1.125c-0.32812 1.4688-0.42188 1.9062-0.42188 2.5781 0 0.14062 0 0.40625 0.078125 0.75 0.10938 0.4375 0.21875 0.5 0.35938 0.5 0.20312 0 0.42188-0.17188 0.42188-0.375 0-0.0625 0-0.078125-0.0625-0.21875-0.29688-0.71875-0.29688-1.375-0.29688-1.6562 0-0.51562 0.078125-1.0625 0.1875-1.5781h1.125c0.14062 0 0.5 0 0.5-0.34375 0-0.23438-0.21875-0.23438-0.40625-0.23438h-3.3438c-0.21875 0-0.59375 0-1.0312 0.46875-0.34375 0.39062-0.60938 0.84375-0.60938 0.89062 0 0.015625 0 0.10938 0.125 0.10938 0.078125 0 0.09375-0.046875 0.15625-0.125 0.48438-0.76562 1.0625-0.76562 1.2656-0.76562h0.5625c-0.3125 1.2031-0.84375 2.4062-1.2656 3.3125-0.078125 0.15625-0.078125 0.17188-0.078125 0.25 0 0.1875 0.15625 0.26562 0.28125 0.26562 0.29688 0 0.375-0.28125 0.5-0.64062 0.14062-0.46875 0.14062-0.48438 0.26562-0.98438z"
+             id="path98" />
+        </g>
+      </g>
+      <g
+         id="id-c1d2bbeb-b2b0-4224-bef2-0fcca7951d0c">
+        <g
+           transform="translate(159.73 134.76)"
+           id="g105">
+          <path
+             d="m4.375-7.0938c0.046875-0.14062 0.046875-0.17188 0.046875-0.1875 0-0.10938-0.078125-0.20312-0.1875-0.20312-0.078125 0-0.14062 0.03125-0.17188 0.09375l-3.4688 9.5c-0.046875 0.14062-0.046875 0.17188-0.046875 0.1875 0 0.10938 0.09375 0.20312 0.20312 0.20312 0.125 0 0.15625-0.078125 0.21875-0.25z"
+             id="path103" />
+        </g>
+        <g
+           transform="translate(164.71 134.76)"
+           id="g109">
+          <path
+             d="m0.875-0.59375c-0.03125 0.15625-0.09375 0.39062-0.09375 0.4375 0 0.17188 0.14062 0.26562 0.29688 0.26562 0.125 0 0.29688-0.078125 0.375-0.28125 0-0.015625 0.125-0.48438 0.1875-0.73438l0.21875-0.89062c0.046875-0.23438 0.10938-0.45312 0.17188-0.67188 0.03125-0.17188 0.10938-0.46875 0.125-0.5 0.14062-0.3125 0.67188-1.2188 1.625-1.2188 0.45312 0 0.53125 0.375 0.53125 0.70312 0 0.60938-0.48438 1.8906-0.64062 2.3125-0.09375 0.23438-0.10938 0.35938-0.10938 0.46875 0 0.46875 0.35938 0.8125 0.82812 0.8125 0.9375 0 1.2969-1.4531 1.2969-1.5312 0-0.10938-0.078125-0.10938-0.10938-0.10938-0.10938 0-0.10938 0.03125-0.15625 0.1875-0.20312 0.67188-0.53125 1.2344-1.0156 1.2344-0.17188 0-0.23438-0.09375-0.23438-0.32812 0-0.25 0.078125-0.48438 0.17188-0.70312 0.1875-0.53125 0.60938-1.625 0.60938-2.2031 0-0.65625-0.42188-1.0625-1.1406-1.0625-0.90625 0-1.3906 0.64062-1.5625 0.875-0.046875-0.5625-0.45312-0.875-0.92188-0.875-0.45312 0-0.64062 0.39062-0.73438 0.5625-0.17188 0.34375-0.29688 0.9375-0.29688 0.96875 0 0.10938 0.09375 0.10938 0.10938 0.10938 0.10938 0 0.10938-0.015625 0.17188-0.23438 0.17188-0.70312 0.375-1.1875 0.73438-1.1875 0.1875 0 0.29688 0.125 0.29688 0.45312 0 0.21875-0.03125 0.32812-0.15625 0.84375z"
+             id="path107" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     d="m94.266 71.299a13.925 14.828 0 0 1 4.7 7.5815"
+     fill="none"
+     stroke="#000"
+     stroke-width=".4"
+     style="paint-order:stroke fill markers"
+     id="path116"
+     inkscape:export-filename="/home/lynx/repositories/untitld.xyz/public/static/images/modulo_addition.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+</svg>
